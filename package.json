@@ -1,4 +1,9 @@
 {
+	"author": "Ayinsakia Jacob",
+	"description": "A great learning project",
+	"keywords": ["description", "freecodecamp", "learning"],
+	"license": "MIT",
+	"version": "",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
